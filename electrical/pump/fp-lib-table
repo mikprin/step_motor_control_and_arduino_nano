@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "footprint")(type "KiCad")(uri "/mnt/pop_os/home/miksolo/work/PCB/pump/lib/footprint.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/mnt/pop_os/home/miksolo/work/PCB/pump/lib/footprint/footprints.pretty")(options "")(descr ""))
+  (lib (name "Other_footprins")(type "KiCad")(uri "/home/miksolo/pop/work/PCB/Relay_PCB/electronics/libraries/PCB_components_library/footprints.pretty")(options "")(descr ""))
+)

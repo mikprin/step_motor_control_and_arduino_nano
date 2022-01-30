@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "sch")(type "KiCad")(uri "/mnt/pop_os/home/miksolo/work/PCB/pump/lib/sch/sch.kicad_sym")(options "")(descr ""))
+  (lib (name "oth")(type "KiCad")(uri "/home/miksolo/pop/work/PCB/Relay_PCB/electronics/libraries/PCB_components_library/symbols/mechanical/Connectors.kicad_sym")(options "")(descr ""))
+)
